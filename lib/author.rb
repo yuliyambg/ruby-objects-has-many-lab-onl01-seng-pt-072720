@@ -20,7 +20,7 @@ class Author
  end
  
  def self.post_count
-   @@post.size
+   @@post.count
  end
  
 end
