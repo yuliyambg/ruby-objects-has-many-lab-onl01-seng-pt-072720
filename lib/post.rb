@@ -1,5 +1,8 @@
 class Post
   
+  def all
+  end
+
 end
 
 
