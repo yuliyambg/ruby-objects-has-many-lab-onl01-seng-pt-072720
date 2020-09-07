@@ -1,6 +1,9 @@
 class Post
   
-  def all
+  @@all
+  
+  def self.all
+    @@all
   end
 
 end
